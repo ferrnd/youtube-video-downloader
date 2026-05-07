@@ -17,7 +17,6 @@ Antes de usar, certifique-se de que tem instalado:
 
 1. **Python 3.8+** - [Download aqui](https://www.python.org/downloads/)
 2. **Node.js** - [Download aqui](https://nodejs.org/) (versão LTS recomendada)
-3. **FFmpeg** - [Download aqui](https://ffmpeg.org/download.html)
 
 ## Instalação 🚀
 
