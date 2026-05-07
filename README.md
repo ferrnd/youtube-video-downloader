@@ -41,9 +41,6 @@ python --version
 
 # Verificar Node.js
 node --version
-
-# Verificar FFmpeg
-ffmpeg -version
 ```
 
 ## Como Usar 📺
